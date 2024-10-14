@@ -112,13 +112,6 @@ The application will emphasize on database and node based relationships between 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- DEMO -->
-## Video Demo
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/JfKhoIC_kjw)](https://youtu.be/JfKhoIC_kjw)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- API -->
 ## API Documentation and Use
